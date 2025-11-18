@@ -1,4 +1,4 @@
-# Infineum Prompting Workshop – 18.11.2025
+# Infineum Prompting Workshop – 19.11.2025
 
 ## Let’s build it! (Chat)
 
