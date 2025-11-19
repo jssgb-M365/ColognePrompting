@@ -72,7 +72,3 @@ Add the public website https://learn.microsoft.com/en-us/surface/ as knowledge a
 What versions of the Surface Laptop 7 exist?
 ```
 
-### Prompt: Explore Instructions
-```text
-Feel free to play with the instructions to get more out of it!
-```
