@@ -4,31 +4,31 @@
 
 ### Prompt 1
 ```text
-Wofür steht die Abkürzung RAG im Kontext von Künstlicher Intelligenz?
-Erkläre bitte einfach und verständlich.
+What does the abbreviation RAG stand for in the context of Artificial Intelligence?
+Please explain simply and understandably.
 ```
 
 ### Prompt 2
 ```text
-Gib mir eine tabellarische Übersicht: ChargeNow vs. Aral pulse (Shell Recharge) –
-Netzabdeckung, Ladepunkte, Roaming-Partner und Zugangsmöglichkeiten in Deutschland & Europa.
+Give me a tabular comparison: ChargeNow vs. Aral pulse (Shell Recharge) –
+network coverage, charging points, roaming partners, and access options in Germany & Europe.
 ```
 
 ### Prompt 3
 ```text
-Wie erstelle ich in Word ein Booklet zum Falten, z.B. ein kleines Heft im DIN-A5-Format,
-das ich auf DIN-A4-Papier drucken und in der Mitte tackern kann?
+How do I create a booklet in Word for folding, e.g., a small booklet in DIN A5 format,
+that I can print on DIN A4 paper and staple in the middle?
 ```
 
 ### Prompt 4
 ```text
-Im Film "The Wolf of Wall Street" geht es unter anderem um den Handel mit Penny Stocks.
-Wie funktioniert das Geschäftsmodell dahinter, insbesondere die hohe Provision für Verkäufer?
+In the movie The Wolf of Wall Street, it’s partly about trading penny stocks.
+How does the business model behind this work, especially the high commission for sellers?
 ```
 
 ### Prompt 5 (Follow-up)
 ```text
-Warum waren diese Aktien für Makler so profitabel?
+Why were these stocks so profitable for brokers?
 ```
 
 ---
@@ -70,4 +70,9 @@ Add the public website https://learn.microsoft.com/en-us/surface/ as knowledge a
 ### Prompt: Test Query
 ```text
 What versions of the Surface Laptop 7 exist?
+```
+
+### Prompt: Explore Instructions
+```text
+Feel free to play with the instructions to get more out of it!
 ```
